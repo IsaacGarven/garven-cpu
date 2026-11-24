@@ -1,72 +1,64 @@
 1. Identify and define the problem
 Ideas for things the project could do/be:
 -  Run basic games (Somewhere between NES and Gamecube level)
-  -  NES
-  -  SNES
-  -  N64
-  -  GameCube
--  Image edge detection
--  Maze Solver
--  Chess endgame solver
--  Graphic Design Software
--  Physics
--  Word Processing
--  Neural Net
--  Spreadsheets
--  Database
--  Ray Casting
--  Scientific equipment
--  Robotics
--  Animation
--  Be a CPU
--  Be a GPU
--  Demonstrate proficiency in computer architecture/digital logic
+	- NES
+	- SNES
+	- N64
+	- GameCube
+- Image edge detection
+- Maze Solver
+- Chess endgame solver
+- Graphic Design Software
+- Physics
+- Word Processing
+- Neural Net
+- Spreadsheets
+- Database
+- Ray Casting
+- Scientific equipment
+- Robotics
+- Animation
+- Be a CPU
+- Be a GPU
+- Demonstrate proficiency in computer architecture/digital logic
 - Demonstrate proficiency in chip design
--  Be doable in ~3 months
--  Be fun/entertaining enough to complete in a reasonable amount of time
--  Portable so I can show it off
--  Entertaining so showing it off is fun
--  Durable
--  
-
-
-
-
-
-
-
+- Be doable in ~3 months
+- Be fun/entertaining enough to complete in a reasonable amount of time
+- Portable so I can show it off
+- Entertaining so showing it off is fun
+- Durable
+- Run code written in C/C++
+- Be developed with equipment I own
+- Be developed with equipment I can take with me anywhere
+- Be inexpensive
+- Be 16-bit
+- Be 32-bit
+- Be 64-bit
+- Use IEEE standards wherever possible
+- Have a way to feed it programs easily
+- Avoid having to carry around large equipment with extra programs
+- Use RISC-V RV32I ISA
+- Standalone
+- Be the size of a gameboy
+- Be the size of a deck of cards
+- Be the size of a thumb
+- Be the size of a laptop
+- Be the size of a desktop
+- Display error codes
+- Avoid writing custom compilers
+- Work with existing peripherals
+- Can be developed on FPGAs available at UT
+- Run at 60 FPS
+- Run at 30 FPS
+- Works immediately on power-on without fiddling around to show off
+- User-friendly experience
+- Visually pleasing
+- Can be held and used like a normal device
+- Use open-source tools
+- Shows documented progress viewable online (proof of work)
+- 
 
 
 Must:
-i.  Demonstrate proficiency in computer architecture/digital logic
-ii.  Demonstrate proficiency in chip design
-iii.  Be doable in ~3 months
-iv.  Be fun/entertaining enough to complete in a reasonable amount of time
 Can:
-i.  
-
-
-
-
-
-
-
-Ideas for tasks to design CPU for:
--  Run basic games (Somewhere between NES and Gamecube level)
-  -  NES
-  -  SNES
-  -  N64
-  -  GameCube
--  Image edge detection
--  Maze Solver
--  Chess endgame solver
--  Graphic Design Software
--  Physics
--  Word Processing
--  Neural Net
--  Spreadsheets
--  Database
--  Ray Casting
--  Scientific equipment
--  Robotics
--  Animation
+Won't:
